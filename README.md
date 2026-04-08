@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Caleb_ray.gif" alt="Caleb Ray Banner" width="100%">
+  <img src="Caleb%20ray.gif" alt="Caleb Ray Banner" width="100%">
 </div>
 
 <h1 align="center">Hi 👋, I'm Caleb Ray </h1>
@@ -50,6 +50,3 @@ Whether I'm diving into Python algorithms, structuring a robust backend database
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CalebRay95&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-[![](https://count.simplecounter.com/pc/custom?id=CalebRay95&count=000&color=F61A7C&bg=020617&digit=5&style=flat)](https://github.com/CalebRay95)
