@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="banner.gif" alt="Gaming Channel Banner" width="100%">
+  <img src="banner.gif" alt="Caleb ray" width="100%">
 </div>
