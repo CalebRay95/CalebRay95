@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="banner.gif" alt="Caleb ray" width="100%">
+  <img src="Caleb%20ray.gif" alt="Caleb Ray Banner" width="100%">
 </div>
