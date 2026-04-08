@@ -2,7 +2,7 @@
   <img src="Caleb%20ray.gif" alt="Caleb Ray Banner" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm Caleb Ray (Biswajit)</h1>
+<h1 align="center">Hi 👋, I'm Caleb Ray </h1>
 <h3 align="center">The Silentkiller | AI Explorer & Backend Architect</h3>
 
 <p align="center"> 
@@ -12,7 +12,7 @@
 <img align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952y8npo5sz9py89gesi406r2jwycd1q3tyv9xt9jph&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF">
 
 # 💫 About Me:
-At 20 years old, as a CSE-AI student, the goal isn't just to write code—it's to break the boring and build something useful. Operating at the intersection of complex algorithms and bold aesthetics, I don't follow standard roadmaps; I create new ones.
+As a CSE-AI student, the goal isn't just to write code—it's to break the boring and build something useful. Operating at the intersection of complex algorithms and bold aesthetics, I don't follow standard roadmaps; I create new ones.
 
 - 🌱 **I’m currently learning:** Agentic AI, LangChain, and advanced AI methodologies.
 - 📫 **How to reach me:** [thesilentkiller.tsk95@gmail.com](mailto:thesilentkiller.tsk95@gmail.com)
@@ -51,8 +51,8 @@ Whether I'm diving into Python algorithms, structuring a database, or directing 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CalebRay95&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 💀 The Reality
+> *"The machine does not care about your intentions. It only executes your instructions. Everything else is just a temporary illusion of control."*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CalebRay95&limit=5&theme=dark&combine_all_yearly_contributions=true)
